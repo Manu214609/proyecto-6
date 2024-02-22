@@ -11,6 +11,5 @@ for( let i=0;i<pronoun.length;i=i+1){
   }
   }
 }
-
 }
 console.log (generador( pronoun, adj, noun ))
